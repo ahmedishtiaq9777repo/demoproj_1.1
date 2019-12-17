@@ -1,0 +1,12 @@
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\bin\Release\netcoreapp1.0\demoproj_1.1.deps.json
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\bin\Release\netcoreapp1.0\demoproj_1.1.runtimeconfig.json
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\bin\Release\netcoreapp1.0\demoproj_1.1.runtimeconfig.dev.json
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\bin\Release\netcoreapp1.0\demoproj_1.1.dll
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\bin\Release\netcoreapp1.0\demoproj_1.1.pdb
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\demoproj_1.1.csprojAssemblyReference.cache
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\demoproj_1.1.csproj.CoreCompileInputs.cache
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\demoproj_1.1.AssemblyInfoInputs.cache
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\demoproj_1.1.AssemblyInfo.cs
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\demoproj_1.1.dll
+D:\Visual studio 2017\demoproj_1.1\demoproj_1.1\obj\Release\netcoreapp1.0\demoproj_1.1.pdb
